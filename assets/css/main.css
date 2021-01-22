@@ -2756,7 +2756,7 @@ input, select, textarea {
 			}
 
 			#header > header p {
-				color: #d2f2e9;
+				color: #c8ced8;
 				font-style: italic;
 				margin: 1em 0 0 0;
 			}
@@ -2777,7 +2777,7 @@ input, select, textarea {
 			}
 
 				#header > footer .icons li a {
-					color: #b7eadc;
+					color: #ffffff;
 				}
 
 		#header > nav {
@@ -3408,7 +3408,7 @@ input, select, textarea {
 		-ms-border-radius: 50%;
 		border-radius: 50%;
 		position: absolute;
-		left: 54px;
+		left: 56px;
 		top: 3px;
 		z-index: 2;
 	}
